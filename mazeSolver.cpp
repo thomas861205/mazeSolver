@@ -1,5 +1,4 @@
 #include <iostream>
-#include <cstdio>
 #include <stack>
 #include <vector>
 #define MAZE_LENGTH 11 //x
